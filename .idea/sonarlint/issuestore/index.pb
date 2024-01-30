@@ -13,3 +13,5 @@ Q
 !leetcode/tests/test_palindrome.py,6\3\638c171126096a1c325b3504a3ce643a3dfa3630
 P
  leetcode/tests/test_fibonacci.py,5\b\5b0c57ec63ba47da5c175a5cba39f3d4568887b9
+P
+ leetcode/.pre-commit-config.yaml,3\2\3264145cef9c3a352d6f9973462b3f4c6c2eb949
