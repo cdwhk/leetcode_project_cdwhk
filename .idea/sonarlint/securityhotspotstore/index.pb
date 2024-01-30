@@ -15,3 +15,7 @@ P
  leetcode/tests/test_fibonacci.py,5\b\5b0c57ec63ba47da5c175a5cba39f3d4568887b9
 P
  leetcode/.pre-commit-config.yaml,3\2\3264145cef9c3a352d6f9973462b3f4c6c2eb949
+Q
+!leetcode/sonar-project.properties,e\f\ef75ca3f2fac5a8c746b2354955ff1152cf2aa26
+H
+sonar-project.properties,2\5\2538046035efb77ecc44e1fd2eec1e2641594d4c
